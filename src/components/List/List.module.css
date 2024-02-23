@@ -1,0 +1,24 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  padding: 1.3rem 0.6rem;
+  background-color: #4fe3a4;
+  border-radius: 0.3rem;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.list-item button {
+  width: 30%;
+  min-width: 100px;
+  height: 36px;
+  padding: 0.5rem 0.3rem;
+  cursor: pointer;
+  background-color: #ff7f00;
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+}

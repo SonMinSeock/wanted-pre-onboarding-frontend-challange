@@ -1,0 +1,37 @@
+.form-todo {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  max-width: 320px;
+  padding: 1rem 0;
+}
+
+.form-todo input {
+  width: 100%;
+  padding: 0.6rem 0.3rem;
+  border-radius: 0.8rem;
+  border: none;
+  margin-bottom: 1rem;
+  font: inherit;
+  font-size: 1rem;
+}
+
+.form-todo input:focus,
+.form-todo input:active {
+  outline-color: #4fe3a4;
+}
+
+.form-todo button {
+  padding: 0.5rem 0.3rem;
+  border-radius: 0.3rem;
+  width: 50%;
+  height: 36px;
+  min-width: 100px;
+  border: none;
+  margin: 0 auto;
+  background-color: #4fe3a4;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
