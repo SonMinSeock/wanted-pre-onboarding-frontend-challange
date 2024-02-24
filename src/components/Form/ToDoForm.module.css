@@ -1,7 +1,7 @@
 .form-todo {
   display: flex;
   flex-direction: column;
-  width: 80%;
+  width: 100%;
   max-width: 320px;
   padding: 1rem 0;
 }

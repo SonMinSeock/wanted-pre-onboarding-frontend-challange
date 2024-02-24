@@ -3,7 +3,9 @@
   align-items: center;
   justify-content: space-between;
   font-size: 1.1rem;
-  margin-bottom: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 2rem;
   padding: 1.3rem 0.6rem;
   background-color: #4fe3a4;
   border-radius: 0.3rem;
@@ -12,10 +14,8 @@
 }
 
 .list-item button {
-  width: 30%;
-  min-width: 100px;
   height: 36px;
-  padding: 0.5rem 0.3rem;
+  padding: 0.5rem 1rem;
   cursor: pointer;
   background-color: #ff7f00;
   color: #ffffff;
